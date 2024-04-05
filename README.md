@@ -1,11 +1,10 @@
 # Advanced SMS Spam Detection Using NLP
 
 ## Project Overview
-Welcome to the Advanced SMS Spam Detection repository! This project harnesses the power of NLP to discern unsolicited 'spam' messages from 'ham' (non-spam) communications. Dive into a robust analysis using cutting-edge machine learning and deep learning techniques such as Word2Vec, GloVe, and TF-IDF to build a spam filter with impressive accuracy.
+Welcome to the Advanced SMS Spam Detection repository! This project utilizes the power of Natural Language Processing (NLP) to distinguish between unsolicited 'spam' messages and 'ham' (non-spam) texts. Immerse yourself in a detailed analysis employing the latest in machine learning and deep learning techniques, including Word2Vec, GloVe, and TF-IDF, to develop a highly accurate spam detection filter.
 
 ## Dataset Description
-Utilizing a meticulously labeled collection of text messages, this project provides a comprehensive framework for SMS spam detection. The dataset is a realistic cross-section of daily SMS traffic representing the challenges of automated spam filtering in communication apps.
-
+The dataset is a comprehensive compilation of text messages that have been accurately categorized, providing a realistic depiction of everyday SMS communication and the inherent challenges in automated spam detection within messaging applications.
 ## Methodology
 - **Exploratory Data Analysis (EDA):** In-depth analysis of the dataset, understanding the distribution and nature of the text data.
 - **Data Preprocessing:** Cleaning and preparing the text data for modeling, including tokenization, stop-word removal, and stemming.
@@ -28,17 +27,15 @@ Utilizing a meticulously labeled collection of text messages, this project provi
 - Convolutional Neural Networks (CNN)
 
 ## Innovative Approach
-- **Thorough Data Exploration:** Engage in extensive EDA to uncover underlying patterns and trends within SMS data.
-- **Rigorous Data Preprocessing:** Apply meticulous text processing, including advanced tokenization, stop-word filtering, and normalization techniques.
+- **in-depth Data Exploration:** Engage in EDA to uncover underlying patterns and trends within SMS data.
+- **Comprehensive Data Preprocessing:** Implement extensive text processing with advanced tokenization, stop-word filtering, and normalization methods.
 - **Advanced Vectorization Techniques:**
-  - **Word2Vec:** Unlock contextual word relationships through neural word embeddings.
-  - **GloVe:** Explore word associations with sophisticated co-occurrence matrices.
-  - **TF-IDF:** Elevate term significance with this statistical vectorization method.
-- **Comprehensive Model Evaluation:** Train and test an array of models to benchmark the optimal strategy for spam detection.
-
+  - **Word2Vec:** Uncover context-dependent word relationships via neural word embeddings.
+  - **GloVe:** Investigate word associations with complex co-occurrence matrices.
+  - **TF-IDF:** Enhance term significance with this quantitative vectorization technique.
+- **Comprehensive Model Evaluation:** Execute a series of training and testing procedures on a diverse range of models to pinpoint the definitive spam detection strategy.
 ## Project Highlights
-Our research underscores the BiLSTM with TF-IDF, CNN with TF-IDF, and Random Forest with Word2Vec as the standout models. These methodologies are meticulously selected for their superior predictive performance, reflected through high precision, recall, and f1-scores, ensuring top-notch classification efficacy.
+Our research highlight the BiLSTM with TF-IDF, CNN with TF-IDF, and Random Forest with Word2Vec as the models of choice. These approaches were meticulously curated for their outstanding predictive capabilities, evidenced by exceptional precision, recall, and F1 scores, guaranteeing the highest level of classification accuracy.
 
 ## Keywords
 NLP, spam detection, machine learning, deep learning, text classification, Word2Vec, GloVe, TF-IDF, spam filter
-
