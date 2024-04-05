@@ -36,9 +36,6 @@ Utilizing a meticulously labeled collection of text messages, this project provi
   - **TF-IDF:** Elevate term significance with this statistical vectorization method.
 - **Comprehensive Model Evaluation:** Train and test an array of models to benchmark the optimal strategy for spam detection.
 
-## Model Arsenal
-Experience the breadth and depth of machine learning through diverse models, from foundational algorithms like Decision Trees to complex neural network architectures such as LSTM, BiLSTM, GRU, and CNNs.
-
 ## Project Highlights
 Our research underscores the BiLSTM with TF-IDF, CNN with TF-IDF, and Random Forest with Word2Vec as the standout models. These methodologies are meticulously selected for their superior predictive performance, reflected through high precision, recall, and f1-scores, ensuring top-notch classification efficacy.
 
