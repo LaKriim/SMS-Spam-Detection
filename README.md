@@ -42,3 +42,6 @@ Experience the breadth and depth of machine learning through diverse models, fro
 ## Project Highlights
 Our research underscores the BiLSTM with TF-IDF, CNN with TF-IDF, and Random Forest with Word2Vec as the standout models. These methodologies are meticulously selected for their superior predictive performance, reflected through high precision, recall, and f1-scores, ensuring top-notch classification efficacy.
 
+## Keywords
+NLP, spam detection, machine learning, deep learning, text classification, Word2Vec, GloVe, TF-IDF, spam filter
+
